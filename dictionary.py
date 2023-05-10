@@ -1,4 +1,4 @@
-my_dict= {"Name":"Anil","Address":"Tarahara","Age":"20","Gender":"Male"}
+my_dict= {"Name":"Anil","Address":"Tarahara","Age":"20","Gender":"Male","Ph_No":"9817350865"}
 print(my_dict)          #Print above value
 print(my_dict["Name"])  #Prints only given varaible 
 my_dict["Sex"]="Male"   #Update above dictionary
